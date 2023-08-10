@@ -10,7 +10,10 @@
 
 ### 'Deploy'
 
+https://stunning-licorice-0b1705.netlify.app
+
 ### 'Screen'
 
 ![](screen-spotify.gif)
+
 # spotify-clone
